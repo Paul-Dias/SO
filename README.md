@@ -1,0 +1,2 @@
+# SO
+Save minix 
