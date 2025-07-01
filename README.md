@@ -1,2 +1,2 @@
 # SO
-Save minix 
+Save minix in my
